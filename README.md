@@ -1,2 +1,2 @@
 # Web3
-This repos is used for learning Web3 and creating Solana and Ethereum related projects..
+This repo is used for learning Web3, creating Solana and Ethereum related projects.
